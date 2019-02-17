@@ -1,17 +1,55 @@
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "#82b92c",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d",
-    "e": "f"
+  "system": {
+    "dead": false,
+    "deadMssage": "",
+    "showAds": true,
+    "allUnlocked": false,
+    "latestVersion": "1.0",
+    "latestVersionCode": "1",
+    "playstore": false,
+    "urlPlaystore": "",
+    "urlDefault": "https://github.com/QuadTriangle/BuyDataPack/releases/download/v2.0.1/BuyDataPack-v2.0.1.apk",
+    "releaseNotes": [
+      "- fix login issues",
+      "- fix usage history",
+      "- handle some errors",
+      "- change locale dialog on first start",
+      "- added sms permission rationale"
+    ],
+    "homeScreenMessage": ""
   },
-  "string": "Hello World"
+  "idPremium": {
+    "permanent": [
+      {
+        "id": 1234689,
+        "date": "1st January, 2018"
+      },
+      {
+        "id": 7894556,
+        "date": "1st January, 2019"
+      }
+    ],
+    "temporary": [
+      {
+        "id": 1228589,
+        "date": "1st January, 2018"
+      },
+      {
+        "id": 3964556,
+        "date": "1st January, 2019"
+      }
+    ]
+  },
+  "adsCustom": [
+    {
+      "active": "true",
+      "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+      "colorBackground": "#82b92c"
+    },
+    {
+      "active": "false",
+      "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+      "color": "#82b92c"
+    }
+  ]
 }
