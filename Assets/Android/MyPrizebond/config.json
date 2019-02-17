@@ -6,7 +6,7 @@
   "latestVersion": "1.0",
   "latestVersionCode": 1,
   "playStore": false,
-  "urlPlaystore": "",
+  "urlPlayStore": "",
   "urlDefault": "https://github.com/QuadTriangle/BuyDataPack/releases/download/v2.0.1/BuyDataPack-v2.0.1.apk",
   "releaseNotes": [
     "- fix login issues",
@@ -15,39 +15,39 @@
     "- change locale dialog on first start",
     "- added sms permission rationale"
   ],
-  "homeScreenMessage": "",
+  "homeScreenMessage": "Hello World",
   "idPremium": {
     "permanent": [
       {
-        "id": 1234689,
-        "date": 20121231
+        "userId": 1234689,
+        "registrationDate": 20121231
       },
       {
-        "id": 7894556,
-        "date": 20131231
+        "userId": 7894556,
+        "registrationDate": 20131231
       }
     ],
     "temporary": [
       {
-        "id": 1228589,
-        "date": 20141231
+        "userId": 1228589,
+        "registrationDate": 20141231
       },
       {
-        "id": 3964556,
-        "date": 20151231
+        "userId": 3964556,
+        "registrationDate": 20151231
       }
     ]
   },
   "adsCustom": [
     {
-      "active": "true",
+      "active": true,
       "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
-      "colorBackground": "#82b92c"
+      "backColor": "#82b92c"
     },
     {
-      "active": "false",
+      "active": false,
       "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
-      "color": "#82b92c"
+      "backColor": "#82b92c"
     }
   ]
 }
