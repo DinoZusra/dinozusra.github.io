@@ -16,28 +16,6 @@
     "- added sms permission rationale"
   ],
   "homeScreenMessage": "Hello World",
-  "idPremium": {
-    "permanent": [
-      {
-        "userId": 1234689,
-        "registrationDate": 20121231
-      },
-      {
-        "userId": 7894556,
-        "registrationDate": 20131231
-      }
-    ],
-    "temporary": [
-      {
-        "userId": 1228589,
-        "registrationDate": 20141231
-      },
-      {
-        "userId": 3964556,
-        "registrationDate": 20151231
-      }
-    ]
-  },
   "adsCustom": [
     {
       "active": true,
