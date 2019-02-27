@@ -1,6 +1,7 @@
 {
   "dead": false,
-  "deadMessage": "",
+  "deadMessage": "GoodBye !",
+  "chatActiveOnDeadPage": true,
   "showAds": true,
   "allUnlocked": false,
   "latestVersion": "1.0",
@@ -9,23 +10,13 @@
   "urlPlayStore": "",
   "urlDefault": "https://github.com/QuadTriangle/BuyDataPack/releases/download/v2.0.1/BuyDataPack-v2.0.1.apk",
   "releaseNotes": [
-    "- fix login issues",
-    "- fix usage history",
-    "- handle some errors",
-    "- change locale dialog on first start",
-    "- added sms permission rationale"
+    "- AAAAAAA",
+    "- BBBBBBB",
+    "- CCCCCCC"
   ],
   "homeScreenMessage": "Hello World",
-  "adsCustom": [
-    {
-      "active": true,
-      "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
-      "backColor": "#82b92c"
-    },
-    {
-      "active": false,
-      "imageLink": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
-      "backColor": "#82b92c"
-    }
-  ]
+  "contact": {
+    "facebook": "fb url",
+    "telegram": "telegram link"
+  }
 }
