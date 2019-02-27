@@ -15,8 +15,11 @@
     "- CCCCCCC"
   ],
   "homeScreenMessage": "Hello World",
-  "contact": {
+  "links": {
     "facebook": "fb url",
-    "telegram": "telegram link"
+    "telegram": "telegram link",
+    "boxid": "box id",
+    "finalBlogPage": "finalBlogPage Link",
+    "feedbackID": "feedback ID"
   }
 }
