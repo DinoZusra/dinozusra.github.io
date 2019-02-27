@@ -1,6 +1,6 @@
 {
   "myAppID" : "com.blogspot.dinozusra.myprizebond",
-  "dead": true,
+  "dead": false,
   "deadMessage": "GoodBye !",
   "chatActiveOnDeadPage": true,
   "showAds": true,
