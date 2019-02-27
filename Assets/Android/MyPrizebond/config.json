@@ -1,4 +1,5 @@
 {
+  "myAppID" : "com.blogspot.dinozusra.myprizebond",
   "dead": false,
   "deadMessage": "GoodBye !",
   "chatActiveOnDeadPage": true,
@@ -15,10 +16,10 @@
     "- CCCCCCC"
   ],
   "homeScreenMessage": "Hello World",
-  "links": {
+  "globalLinks": {
     "facebook": "fb url",
     "telegram": "telegram link",
-    "boxid": "box id",
+    "boxId": "box id",
     "finalBlogPage": "finalBlogPage Link",
     "feedbackID": "feedback ID"
   }
