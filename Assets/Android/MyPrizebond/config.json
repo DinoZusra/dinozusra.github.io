@@ -5,6 +5,7 @@
   "maintenance": false,
   "chatActiveOnDeadPage": true,
   "showAds": true,
+  "showAdsX": true,
   "allUnlocked": false,
   "latestVersion": "1.0",
   "latestVersionCode": 1,
