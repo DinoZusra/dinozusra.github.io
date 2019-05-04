@@ -1,29 +1,24 @@
 {
-  "myAppID": "com.blogspot.dinozusra.myprizebond",
-  "dead": false,
-  "deadMessage": "GoodBye !",
-  "maintenance": false,
-  "chatActiveOnDeadPage": true,
-  "showAds": true,
-  "showAdsX": true,
-  "allUnlocked": false,
-  "latestVersion": "1.0",
-  "latestVersionCode": 1,
-  "forcedUpdate": true,
-  "playStore": false,
-  "urlPlayStore": "",
-  "urlDefault": "https://github.com/QuadTriangle/BuyDataPack/releases/download/v2.0.1/BuyDataPack-v2.0.1.apk",
+  "idMyApp": "com.blogspot.dinozusra.myprizebond",
+  "versionLatest": "1.0",
+  "versionCodeLatest": 1,
+  "isDead": false,
+  "msgDead": "Every journey must come to an end, This is the end of our journey. Thank you for all your support.",
+  "isMaintenance": false,
+  "msgMaintenance": "Maintenance Going On !!",
+  "adsVisible": true,
+  "linkUpdate": "https://github.com/QuadTriangle/BuyDataPack/releases/download/v2.0.1/BuyDataPack-v2.0.1.apk",
   "releaseNotes": [
     "- AAAAAAA",
     "- BBBBBBB",
     "- CCCCCCC"
   ],
-  "homeScreenMessage": "Hello World",
+  "msgHomeScreen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ute neque massa. Maecenas vel posuere est. Morbi vulputate malesuada pretium. Aliquam arcu sapien, rhoncus quis libero eu, blandit pharetra turpis.",
   "globalLinks": {
-    "facebook": "fb url",
-    "telegram": "telegram link",
-    "boxId": "box id",
-    "finalBlogPage": "finalBlogPage Link",
-    "feedbackID": "feedback ID"
+    "linkFbPageId": "fb url",
+    "linkTelegram": "telegram link",
+    "idBox": "box id",
+    "linkBlogPageFinal": "finalBlogPage Link",
+    "idFeedback": "feedback ID"
   }
 }
