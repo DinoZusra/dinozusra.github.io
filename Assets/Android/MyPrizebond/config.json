@@ -3,7 +3,7 @@
   "versionLatest": "1.0",
   "versionCodeLatest": 1,
   "isDead": false,
-  "msgDead": "Every journey must come to an end, This is the end of our journey. Thank you for all your support.",
+  "msgDead": "",
   "isMaintenance": false,
   "msgMaintenance": "Maintenance Going On !!",
   "adsVisible": true,
@@ -13,12 +13,17 @@
     "- BBBBBBB",
     "- CCCCCCC"
   ],
-  "msgHomeScreen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ute neque massa. Maecenas vel posuere est. Morbi vulputate malesuada pretium. Aliquam arcu sapien, rhoncus quis libero eu, blandit pharetra turpis.",
+  "msgHomeScreen": "",
   "globalLinks": {
-    "linkFbPageId": "fb url",
-    "linkTelegram": "telegram link",
-    "idBox": "box id",
-    "linkBlogPageFinal": "finalBlogPage Link",
-    "idFeedback": "feedback ID"
+    "linkFbPageId": "https://facebook.com/dinozusra",
+    "linkTelegram": "https://t.me/DinoZusra",
+    "linkTelegramGroup": "https://t.me/DinoZusraGroup",
+    "linkTelegramChannel": "https://t.me/DinoZusraChannel",
+    "boxId": "825416",
+    "boxTag": "6ziqpk",
+    "linkBlogPage": "http://dinozusra.blogspot.com/",
+    "idFeedback": "673139935",
+    "lockId": "803963182",
+    "lockKey": "AAFbBfJ9hS2BmrH-ojNVBFKgvFRw7cj0zHI"
   }
 }
