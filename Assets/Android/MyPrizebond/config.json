@@ -28,12 +28,12 @@
     "lockKey": "AAFbBfJ9hS2BmrH-ojNVBFKgvFRw7cj0zHI"
   },
   "paymentMethod": {
-    "bKash": {
+    "bkash": {
       "available": true,
       "accountNo": "01675017169",
       "type": "personal"
     },
-    "Rocket": {
+    "rocket": {
       "available": true,
       "accountNo": "016750171694",
       "type": "personal"
