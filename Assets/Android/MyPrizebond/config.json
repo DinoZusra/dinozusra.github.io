@@ -26,5 +26,17 @@
     "idFeedback": "-1001298297448",
     "lockId": "803963182",
     "lockKey": "AAFbBfJ9hS2BmrH-ojNVBFKgvFRw7cj0zHI"
+  },
+  "paymentMethod": {
+    "bKash": {
+      "available": true,
+      "accountNo": "01675017169",
+      "type": "personal"
+    },
+    "Rocket": {
+      "available": true,
+      "accountNo": "016750171694",
+      "type": "personal"
+    }
   }
 }
