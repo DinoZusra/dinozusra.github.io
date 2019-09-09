@@ -30,12 +30,12 @@
   "paymentMethod": {
     "bkash": {
       "available": true,
-      "accountNo": "01675017169",
+      "accountNo": "123",
       "type": "personal"
     },
     "rocket": {
       "available": true,
-      "accountNo": "016750171694",
+      "accountNo": "123",
       "type": "personal"
     }
   }
